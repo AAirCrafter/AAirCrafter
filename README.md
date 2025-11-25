@@ -1,9 +1,9 @@
 <h1 align="center">Hi, ich bin AAirCrafter</h1> 
 
-<img width="240" height="auto" alt="image" src="https://github.com/user-attachments/assets/5567bad4-e3e2-4d8a-abc2-2415c2c00f5c" /> 
-<img width="240" height="auto" alt="image" src="https://github.com/user-attachments/assets/7b4efe65-5d3d-4e91-8223-06775cd1ba8a" /> 
-<img width="240" height="auto" alt="image" src="https://github.com/user-attachments/assets/356203f9-6279-481f-9d10-b5b2c5be7b0e" /> 
-<img width="240" height="auto" alt="image" src="https://github.com/user-attachments/assets/a0a6bedf-7922-41a1-8e60-424e96fd95e7" /> 
+<a href="https://www.aaircrafter.online"><img width="240" height="auto" alt="image" src="https://github.com/user-attachments/assets/5567bad4-e3e2-4d8a-abc2-2415c2c00f5c" /></a>
+<a href="https://www.aaircrafter.online/discord"><img width="240" height="auto" alt="image" src="https://github.com/user-attachments/assets/7b4efe65-5d3d-4e91-8223-06775cd1ba8a" /></a>
+<a href="https://modrinth.com/user/AAirCrafter"><img width="240" height="auto" alt="image" src="https://github.com/user-attachments/assets/356203f9-6279-481f-9d10-b5b2c5be7b0e" /></a>
+<a href="https://www.youtube.com/@aaircrafter"><img width="240" height="auto" alt="image" src="https://github.com/user-attachments/assets/a0a6bedf-7922-41a1-8e60-424e96fd95e7" /></a>
 
 ---
 
