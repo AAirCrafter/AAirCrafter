@@ -1,1 +1,5 @@
-<p>test</p>
+<style>
+  .* {
+    background-color: #fff
+  }
+</style>
