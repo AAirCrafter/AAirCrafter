@@ -9,7 +9,7 @@
 
 ---
 
-### Main: 
+### Main
 
 <img height="50" alt="image" src="https://github.com/user-attachments/assets/d112cb02-7d2a-4731-ac51-c84b04d6d7b2" /> 
 &nbsp;&nbsp;&nbsp; 
