@@ -9,12 +9,8 @@
 
 ---
 
-### Lieblings-"Sprachen": 
+### Main: 
 
-<img height="50" alt="image" src="https://github.com/user-attachments/assets/afacfb90-c7f0-45c1-b0e9-331a1fae16f8" /> 
-&nbsp;&nbsp;&nbsp; 
-<img height="50" alt="image" src="https://github.com/user-attachments/assets/e8c13c4c-a090-472e-9051-82b221515fac" /> 
-&nbsp;&nbsp;&nbsp; 
 <img height="50" alt="image" src="https://github.com/user-attachments/assets/d112cb02-7d2a-4731-ac51-c84b04d6d7b2" /> 
 &nbsp;&nbsp;&nbsp; 
 <img height="50" alt="image" src="https://github.com/user-attachments/assets/b6475257-9367-44e1-97a2-4a5532e3ad24" /> 
