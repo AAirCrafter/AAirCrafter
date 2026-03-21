@@ -22,9 +22,11 @@
 <img height="50" alt="19712ec2f1982c5f75a26a19feaf1123" src="https://github.com/user-attachments/assets/b65d5eef-8114-4780-94d8-d4c570c7e0e8" />
 &nbsp;&nbsp;&nbsp; 
 
-<img height="50" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" />
-&nbsp;&nbsp;&nbsp; 
-<img height="50" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.png" />
+<p align="center">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.png" />
+</p>
 
 &nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp; 
