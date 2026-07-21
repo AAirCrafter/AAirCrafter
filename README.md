@@ -19,6 +19,7 @@
   <img height="50" alt="f9747b25894d25159087b518d89d8588" src="https://github.com/user-attachments/assets/4bc6f7d6-5993-4725-ab37-66ed8dfc6b6c" />
   &nbsp;&nbsp;&nbsp; 
   <img height="50" alt="19712ec2f1982c5f75a26a19feaf1123" src="https://github.com/user-attachments/assets/b65d5eef-8114-4780-94d8-d4c570c7e0e8" />
+  <img width="50" alt="sql" src="https://github.com/user-attachments/assets/c7063d9c-d088-4b27-a42d-f9ac1018e46b" />
 </p>
 &nbsp;&nbsp;&nbsp; 
 
