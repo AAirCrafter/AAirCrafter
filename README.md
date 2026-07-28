@@ -30,7 +30,7 @@
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.png" />
 </p>
 
-[![Top Languages](https://vercel.app)](https://github.com/aaircrafter/github-readme-stats)
+[![Top Languages](https://vercel.app)](https://github.com/AAirCrafter/github-readme-stats)
 
 &nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp; 
