@@ -30,8 +30,6 @@
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.png" />
 </p>
 
-[![Top Languages](https://vercel.app)](https://github.com/AAirCrafter/github-readme-stats)
-
 &nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp; 
 <p align="center"> <img width="800" height="auto" alt="footer" src="https://github.com/user-attachments/assets/c8251c92-b503-4645-bea5-beb5d07670e3" /> </p>
