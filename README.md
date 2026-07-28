@@ -21,6 +21,7 @@
   <img height="50" alt="19712ec2f1982c5f75a26a19feaf1123" src="https://github.com/user-attachments/assets/b65d5eef-8114-4780-94d8-d4c570c7e0e8" />
   <img width="50" alt="sql" src="https://github.com/user-attachments/assets/c7063d9c-d088-4b27-a42d-f9ac1018e46b" />
 </p>
+
 &nbsp;&nbsp;&nbsp; 
 
 <p align="center">
@@ -28,6 +29,8 @@
   &nbsp;&nbsp;&nbsp;
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.png" />
 </p>
+
+[![Top Languages](https://vercel.app)](https://github.com/aaircrafter/github-readme-stats)
 
 &nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp; 
