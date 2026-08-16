@@ -30,6 +30,15 @@
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.png" />
 </p>
 
+---
+
+<p align="center">
+  <img height="200" alt="GitHub Stats" src="./generated/overview.svg" />
+  <img height="200" alt="Top Languages" src="./generated/languages.svg" />
+</p>
+
+---
+
 &nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp; 
 <p align="center"> <img width="800" height="auto" alt="footer" src="https://github.com/user-attachments/assets/c8251c92-b503-4645-bea5-beb5d07670e3" /> </p>
