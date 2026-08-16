@@ -1,0 +1,16 @@
+<svg width="380" height="150" viewBox="0 0 380 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #1a1b27; }
+    .title { font: 600 16px 'Segoe UI', sans-serif; fill: #70a5fd; }
+    .label { font: 400 14px 'Segoe UI', sans-serif; fill: #38bdae; }
+    .value { font: 600 14px 'Segoe UI', sans-serif; fill: #b0bfff; }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" rx="8" width="379" height="149" stroke="#2e2f3e" />
+  <text x="20" y="35" class="title">AAirCrafter's GitHub Stats</text>
+  <text x="20" y="65" class="label">Repos:</text>
+  <text x="200" y="65" class="value">5</text>
+  <text x="20" y="95" class="label">Commits:</text>
+  <text x="200" y="95" class="value">412</text>
+  <text x="20" y="125" class="label">Stars:</text>
+  <text x="200" y="125" class="value">2</text>
+</svg>

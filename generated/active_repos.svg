@@ -1,0 +1,18 @@
+<svg width="380" height="196" viewBox="0 0 380 196" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #1a1b27; }
+    .title { font: 600 16px 'Segoe UI', sans-serif; fill: #70a5fd; }
+    .name { font: 600 14px 'Segoe UI', sans-serif; fill: #b0bfff; }
+    .meta { font: 400 12px 'Segoe UI', sans-serif; fill: #38bdae; }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" rx="8" width="379" height="195" stroke="#2e2f3e" />
+  <text x="20" y="35" class="title">Most Active Projects</text>
+  <text x="20" y="60" class="name">AAirCrafter</text>
+  <text x="20" y="76" class="meta">Python - ★ 1</text>
+  <text x="20" y="94" class="name">sip</text>
+  <text x="20" y="110" class="meta">Java - ★ 0</text>
+  <text x="20" y="128" class="name">playerview</text>
+  <text x="20" y="144" class="meta">Java - ★ 0</text>
+  <text x="20" y="162" class="name">Challenge-Timer</text>
+  <text x="20" y="178" class="meta">Java - ★ 1</text>
+</svg>
