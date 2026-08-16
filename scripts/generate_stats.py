@@ -15,9 +15,9 @@ def get_all_repos():
     page = 1
     while True:
         r = requests.get(
-            f"https://api.github.com/users/{USERNAME}/repos",
+            "https://api.github.com/user/repos",
             headers=HEADERS,
-            params={"per_page": 100, "page": page, "type": "owner"},
+            params={"per_page": 100, "page": page, "affiliation": "owner", "visibility": "all"},
         )
         r.raise_for_status()
         data = r.json()
