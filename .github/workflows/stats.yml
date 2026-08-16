@@ -2,26 +2,31 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # alle 12 Stunden
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+permissions:
+  contents: write
 
 jobs:
-  generate-stats:
+  stats:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Generate stats images
-        uses: jstrieb/github-stats@master
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          username: AAirCrafter
-          access_token: ${{ secrets.ACCESS_TOKEN }}
-          exclude_repos: ""
-          exclude_langs: ""
-          include_all_commits: true
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate stats
+        env:
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: python scripts/generate_stats.py
 
       - name: Commit and push generated files
         run: |
