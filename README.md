@@ -37,7 +37,9 @@
   <img height="200" alt="Top Languages" src="./generated/languages.svg" />
 </p>
 
----
+<p align="center">
+  <img alt="Most Active Projects" src="./generated/active_repos.svg" />
+</p>
 
 &nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp; 
