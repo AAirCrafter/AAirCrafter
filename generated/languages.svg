@@ -1,13 +1,21 @@
-<svg width="380" height="140" viewBox="0 0 380 140" xmlns="http://www.w3.org/2000/svg">
+<svg width="380" height="300" viewBox="0 0 380 300" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bg { fill: #1a1b27; }
     .title { font: 600 16px 'Segoe UI', sans-serif; fill: #70a5fd; }
     .label { font: 400 13px 'Segoe UI', sans-serif; fill: #b0bfff; }
   </style>
-  <rect class="bg" x="0.5" y="0.5" rx="8" width="379" height="139" stroke="#2e2f3e" />
+  <rect class="bg" x="0.5" y="0.5" rx="8" width="379" height="299" stroke="#2e2f3e" />
   <text x="20" y="35" class="title">Most Used Languages</text>
-  <text x="20" y="69" class="label">Java - 97.1%</text>
-  <rect x="20" y="77" width="271" height="6" rx="3" fill="#70a5fd" />
-  <text x="20" y="109" class="label">Python - 2.9%</text>
-  <rect x="20" y="117" width="8" height="6" rx="3" fill="#bf91f3" />
+  <text x="20" y="69" class="label">Java - 70.0%</text>
+  <rect x="20" y="77" width="196" height="6" rx="3" fill="#70a5fd" />
+  <text x="20" y="109" class="label">Python - 14.2%</text>
+  <rect x="20" y="117" width="39" height="6" rx="3" fill="#bf91f3" />
+  <text x="20" y="149" class="label">HTML - 9.7%</text>
+  <rect x="20" y="157" width="27" height="6" rx="3" fill="#38bdae" />
+  <text x="20" y="189" class="label">CSS - 4.0%</text>
+  <rect x="20" y="197" width="11" height="6" rx="3" fill="#f7768e" />
+  <text x="20" y="229" class="label">JavaScript - 2.0%</text>
+  <rect x="20" y="237" width="5" height="6" rx="3" fill="#e0af68" />
+  <text x="20" y="269" class="label">GLSL - 0.1%</text>
+  <rect x="20" y="277" width="3" height="6" rx="3" fill="#9ece6a" />
 </svg>
