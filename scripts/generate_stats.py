@@ -11,10 +11,6 @@ COLORS = ["#70a5fd", "#bf91f3", "#38bdae", "#f7768e", "#e0af68", "#9ece6a"]
 
 
 def get_all_repos():
-    # /user/repos ist der authentifizierte Endpoint und liefert auch private
-    # Repos mit, sofern der Token den "repo" Scope hat. /users/{name}/repos
-    # (ohne "/user/repos") zeigt dagegen IMMER nur öffentliche Repos, egal
-    # welcher Token verwendet wird.
     repos = []
     page = 1
     while True:
@@ -139,7 +135,6 @@ def main():
     repos = get_all_repos()
     owned = [r for r in repos if not r.get("fork")]
 
-    # Debug-Ausgabe: im Actions-Log sichtbar, hilft beim Troubleshooting
     private_count = sum(1 for r in owned if r.get("private"))
     public_count = sum(1 for r in owned if not r.get("private"))
     print(f"DEBUG: Token gefunden {len(repos)} Repos total, davon {len(owned)} owned "
