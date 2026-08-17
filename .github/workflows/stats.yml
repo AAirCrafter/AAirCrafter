@@ -2,7 +2,7 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # alle 12 Stunden
+    - cron: "0 */12 * * *"   
   workflow_dispatch:
 
 permissions:
