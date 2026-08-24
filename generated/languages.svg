@@ -6,9 +6,9 @@
   </style>
   <rect class="bg" x="0.5" y="0.5" rx="8" width="379" height="299" stroke="#2e2f3e" />
   <text x="20" y="35" class="title">Most Used Languages</text>
-  <text x="20" y="69" class="label">Java - 69.0%</text>
+  <text x="20" y="69" class="label">Java - 69.2%</text>
   <rect x="20" y="77" width="193" height="6" rx="3" fill="#70a5fd" />
-  <text x="20" y="109" class="label">Python - 14.1%</text>
+  <text x="20" y="109" class="label">Python - 14.0%</text>
   <rect x="20" y="117" width="39" height="6" rx="3" fill="#bf91f3" />
   <text x="20" y="149" class="label">HTML - 9.6%</text>
   <rect x="20" y="157" width="26" height="6" rx="3" fill="#38bdae" />

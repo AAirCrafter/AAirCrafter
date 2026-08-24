@@ -10,7 +10,7 @@
   <text x="20" y="65" class="label">Repos:</text>
   <text x="200" y="65" class="value">31</text>
   <text x="20" y="95" class="label">Commits:</text>
-  <text x="200" y="95" class="value">418</text>
+  <text x="200" y="95" class="value">420</text>
   <text x="20" y="125" class="label">Stars:</text>
   <text x="200" y="125" class="value">2</text>
 </svg>
