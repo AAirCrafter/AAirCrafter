@@ -7,10 +7,10 @@
   </style>
   <rect class="bg" x="0.5" y="0.5" rx="8" width="379" height="195" stroke="#2e2f3e" />
   <text x="20" y="35" class="title">Most Active Projects</text>
-  <text x="20" y="60" class="name">airai</text>
-  <text x="20" y="76" class="meta">C# - ★ 0</text>
-  <text x="20" y="94" class="name">AAirCrafter</text>
-  <text x="20" y="110" class="meta">Python - ★ 1</text>
+  <text x="20" y="60" class="name">AAirCrafter</text>
+  <text x="20" y="76" class="meta">Python - ★ 1</text>
+  <text x="20" y="94" class="name">airai</text>
+  <text x="20" y="110" class="meta">C# - ★ 0</text>
   <text x="20" y="128" class="name">csharptest</text>
   <text x="20" y="144" class="meta">C# - ★ 0</text>
   <text x="20" y="162" class="name">AirisBot</text>
