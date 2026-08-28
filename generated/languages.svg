@@ -6,11 +6,11 @@
   </style>
   <rect class="bg" x="0.5" y="0.5" rx="8" width="379" height="299" stroke="#2e2f3e" />
   <text x="20" y="35" class="title">Most Used Languages</text>
-  <text x="20" y="69" class="label">Java - 68.8%</text>
-  <rect x="20" y="77" width="192" height="6" rx="3" fill="#70a5fd" />
+  <text x="20" y="69" class="label">Java - 68.5%</text>
+  <rect x="20" y="77" width="191" height="6" rx="3" fill="#70a5fd" />
   <text x="20" y="109" class="label">Python - 13.9%</text>
   <rect x="20" y="117" width="38" height="6" rx="3" fill="#bf91f3" />
-  <text x="20" y="149" class="label">HTML - 9.6%</text>
+  <text x="20" y="149" class="label">HTML - 9.5%</text>
   <rect x="20" y="157" width="26" height="6" rx="3" fill="#38bdae" />
   <text x="20" y="189" class="label">CSS - 3.9%</text>
   <rect x="20" y="197" width="10" height="6" rx="3" fill="#f7768e" />
