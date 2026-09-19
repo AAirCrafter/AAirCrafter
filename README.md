@@ -33,6 +33,8 @@
   <img width="30" alt="C++" src="https://github.com/user-attachments/assets/f213e035-ad83-4ec3-b428-e9c3d52fcea4" />
   &nbsp;&nbsp;&nbsp;
   <img height="36" alt="C#" src="https://github.com/user-attachments/assets/e6057e07-de3e-45f7-9aac-8054717ef4c9" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="36" alt="php" src="https://github.com/user-attachments/assets/adfeff4f-58f4-423e-9195-7bdd1d6c2f01" />
 </p>
 
 &nbsp;&nbsp;&nbsp; 
