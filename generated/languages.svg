@@ -8,8 +8,8 @@
   <text x="20" y="35" class="title">Most Used Languages</text>
   <text x="20" y="69" class="label">Java - 62.9%</text>
   <rect x="20" y="77" width="176" height="6" rx="3" fill="#70a5fd" />
-  <text x="20" y="109" class="label">Python - 15.3%</text>
-  <rect x="20" y="117" width="42" height="6" rx="3" fill="#bf91f3" />
+  <text x="20" y="109" class="label">Python - 15.4%</text>
+  <rect x="20" y="117" width="43" height="6" rx="3" fill="#bf91f3" />
   <text x="20" y="149" class="label">HTML - 6.9%</text>
   <rect x="20" y="157" width="19" height="6" rx="3" fill="#38bdae" />
   <text x="20" y="189" class="label">JavaScript - 5.2%</text>
